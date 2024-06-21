@@ -1,0 +1,15 @@
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+
+//Xác nhập trường khi commit
+git config --global user.name "HuyDinh"
+git config --global user.email huydqds180257@fpt.edu.vn
+
+// tạo liên kết với repo 
+remote add origin https://github.com/huy2004Int/Demo1.git
+
+//Để lưu account vào máy tính
+git config --global credential.helper store
+
+Sau đó mới push lên đc
+push -u origin master
