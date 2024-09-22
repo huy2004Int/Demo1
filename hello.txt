@@ -3,4 +3,9 @@ git add . tạo mới 1 file
 git commit-m "nội dung" truyền tải đến Git Local nội dung version mới
 git checkout C1 để di chuyển về version 1
 
+<<<<<<< HEAD
 Xin chào Thư
+=======
+
+Xin chào Quốc Huy
+>>>>>>> 500065dc28b08081c6d852ce34e200d46ee358c5
